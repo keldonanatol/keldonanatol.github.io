@@ -7,15 +7,12 @@ body {
 header {
   text-align: center;
   background-color:dodgerblue;
-  margin: auto;
 }
 
 header h1 {
   font-size: 70px;
   color: black;
   margin: auto;
-  
-  
 }
 
 header h2 {
